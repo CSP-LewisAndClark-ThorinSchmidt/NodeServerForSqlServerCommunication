@@ -44,9 +44,6 @@ The return data syntax looks like this: **After parsing it**
 	"Fields": [] //I don't know how this is returned, I have never needed it.
 }
 
-
-Again, you don't have to use this, I'll be fine if you don't. I just wanted to make this for you because I had to go past the same problem with my personal project, and I knew that no one else in the class would know how to make a server to handle the requests.
-
 I tried to keep this as close to sending SQL commands as I could, that is why you have to specify the commands to send.
 
 To start the server just run nodeServer.js with node
